@@ -12,13 +12,13 @@ export const Accordion = ({ children }) => {
    return (
       <div className="accordion py-3 border-b last:border-b-0 border-slate-300">
          {children.map((child, index) => {
-            if (child.type.name === "AccordionHeader") {
+            if (index === 0) {
                return cloneElement(child, {
                   key: index,
                   accordionOpen,
                   toggleAccordion,
                });
-            } else if (child.type.name === "AccordionPanel") {
+            } else if (index === 1) {
                return cloneElement(child, {
                   key: index,
                   accordionOpen,

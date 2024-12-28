@@ -24,7 +24,7 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 ## Tester le jeu en ligne
 👩‍💻 Enregistrer un nouvel utilisateur <br />
 🔓 Se connecter <br />
-🎮 Jouer
+🎮 Jouer <br />
 🤗 Enjoy 
 
 ## Installation backendNode

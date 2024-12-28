@@ -86,7 +86,7 @@ npm run dev
 👩‍💻 Pseudo : User <br />
 🔒 Mot de passe : password
 
- ## Dépendences
+ ## Dépendances
 * Axios
 * React Icons
 * React Router Dom

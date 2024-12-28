@@ -38,3 +38,6 @@ backend/dist/
 # Misc
 .DS_Store
 desktop.ini
+
+# Vercel
+*vercel.json

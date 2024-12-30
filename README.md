@@ -74,6 +74,7 @@ npm run dev
 🔓 Se connecter <br />
 🎮 Jouer
 
+&nbsp;
 ## ⚙️ Installation backendPHP
 ### Backend
 Installer la base de données en suivant les instructions du fichier `info.md` du dossier `/backend`

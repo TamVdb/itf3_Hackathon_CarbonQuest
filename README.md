@@ -12,8 +12,18 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 
 💪 Parviendrez-vous à répondre correctement à toutes les questions ?
 
+&nbsp;
+## 🌐 Backend et Base de Données
 
-## Visuals
+Afin de pouvoir mettre le projet en ligne plus facilement, nous avons développé un backend en Node.js et utilisé une base de données MongoDB.
+
+💻 **Backend initial** : PHP avec une base de données MySQL (administrée via PHPMyAdmin).  
+🌍 **Backend actuel** : Node.js avec une base de données MongoDB.  
+
+⚡ _Les 2 versions locales sont présentées ici._
+
+&nbsp;
+## 👀 Visuels
 
 ![Imgur](https://tinyurl.com/3wzukf3v)
 ![Imgur](https://tinyurl.com/2s4zdmec)
@@ -22,7 +32,8 @@ Votre mission est de grimper jusqu’au sommet de la canopée, tout en répondan
 ![Imgur](https://tinyurl.com/2p8na978)
 
 
-## Installation backendNode
+&nbsp;
+## ⚙️ Installation backendNode
 ### Backend
 Installer les dépendances
 ```
@@ -63,7 +74,7 @@ npm run dev
 🔓 Se connecter <br />
 🎮 Jouer
 
-## Installation backendPHP
+## ⚙️ Installation backendPHP
 ### Backend
 Installer la base de données en suivant les instructions du fichier `info.md` du dossier `/backend`
 
@@ -88,7 +99,8 @@ npm run dev
 👩‍💻 Pseudo : User <br />
 🔒 Mot de passe : password
 
-## Dépendances
+&nbsp;
+## 🔗 Dépendances
 * Axios
 * React Icons
 * React Router Dom
